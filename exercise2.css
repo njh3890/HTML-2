@@ -1,10 +1,10 @@
 ul#nav li { 
                 display: inline-block;
-                padding-right: 10px;
-                background-color:red;
+                padding-right: 30px;
+                background-color:blue;
             }
 #nav a {
-	color:white;
+	color:black;
 }
 #about_blue {
 	background-color: #6495ED;
@@ -18,10 +18,10 @@ ul#nav li {
 }
 li.important {
 	font-weight:bold;
-	font-size:16px;
+	font-size:28x;
 }
 ul#font_blue {
-	color: blue;
+	color: pink;
 }
 ul#font_yellow {
 	color:orange;
